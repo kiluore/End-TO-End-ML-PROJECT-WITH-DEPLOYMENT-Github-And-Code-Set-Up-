@@ -3,4 +3,4 @@ numpy
 seaborn
 catboost
 xgboost
--e .
+#-e .
